@@ -1,0 +1,19 @@
+{
+  "name": "protecciooficialalert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "proteccioOficial.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.29.1",
+    "playwright": "^1.29.1"
+  },
+  "dependencies": {
+    "axios": "^1.2.2",
+    "dotenv": "^16.0.3",
+    "node-cron": "^3.0.2"
+  }
+}
